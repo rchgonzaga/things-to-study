@@ -1,8 +1,9 @@
 # Fundamentals
-These are the essential knowledge for those who wants to get into tech companies nowadays:
-> A simple list of what you must have in mind when are trying to get into a big tech company.
+> These are the essential knowledge for those who wants to get into tech companies nowadays. This simple list will help you to get through the code interview.
 
 ## Data Structures
+> Is a way of organizing data to be more efficiently used.
+
 - [ArrayLists]
 - [Hash Tables]
 - [Trees (+ Tries)]
@@ -11,6 +12,8 @@ These are the essential knowledge for those who wants to get into tech companies
 - [Heaps]
 
 # Algorithmns
+> How to solve problems / tasks.
+
 - [Merge Sort]
 - [Quick Sort]
 - [Breadth-First Search]
