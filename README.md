@@ -25,4 +25,6 @@
 - [Recursion]
 - [Memorization / Dynamic Programming]
 
-
+# Important links
+> These are links that I collected to study in the future.
+[Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](https://www.raywenderlich.com/)
