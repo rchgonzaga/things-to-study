@@ -28,6 +28,5 @@
 # Important links
 > These are links that I collected to study in the future.
 ---
-[Ray Wenderlich](https://www.raywenderlich.com/) - iOS Development, Games, Android and etc
-
-[GoLang Projects](https://www.golangprojects.com/) - Here You can find developers to work for you or jobs to work for
+[Ray Wenderlich](https://www.raywenderlich.com/) - iOS Development, Games, Android and etc.
+[GoLang Projects](https://www.golangprojects.com/) - Here You can find developers to work for you or jobs to work for.
