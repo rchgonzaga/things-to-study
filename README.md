@@ -92,3 +92,5 @@
 
 ### Web Crawling
 [Turn websites into structured data](https://www.apify.com/) - It turns any or almost any site into json.
+
+[Another api to turn sites into json](https://link.fish/api/) - Same as the above.
