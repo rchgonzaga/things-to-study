@@ -94,3 +94,6 @@
 [Turn websites into structured data](https://www.apify.com/) - It turns any or almost any site into json.
 
 [Another api to turn sites into json](https://link.fish/api/) - Same as the above.
+
+### JS Nice Libs
+[PDF in Browser](https://github.com/bpampuch/pdfmake) - Generates PDF direct from the browser
