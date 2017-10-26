@@ -89,3 +89,6 @@
 
 ### CodeGolf JS
 [codegolf JS](https://gist.github.com/xem/206db44adbdd09bac424) - Mini projects using javascript, really cool.
+
+### Web Crawling
+[Turn websites into structured data](https://www.apify.com/) - It turns any or almost any site into json.
